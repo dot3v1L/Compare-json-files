@@ -1,0 +1,9 @@
+C:\Users\admin\Desktop\Compare objects\Compare objects\Compare objects\bin\Debug\Compare objects.exe.config
+C:\Users\admin\Desktop\Compare objects\Compare objects\Compare objects\bin\Debug\Compare objects.exe
+C:\Users\admin\Desktop\Compare objects\Compare objects\Compare objects\bin\Debug\Compare objects.pdb
+C:\Users\admin\Desktop\Compare objects\Compare objects\Compare objects\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\Compare objects\Compare objects\Compare objects\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\Compare objects\Compare objects\Compare objects\obj\Debug\Compare objects.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Compare objects\Compare objects\Compare objects\obj\Debug\Compare objects.csproj.CopyComplete
+C:\Users\admin\Desktop\Compare objects\Compare objects\Compare objects\obj\Debug\Compare objects.exe
+C:\Users\admin\Desktop\Compare objects\Compare objects\Compare objects\obj\Debug\Compare objects.pdb

@@ -1,0 +1,1 @@
+CompareObjects.exe File-A.json File-B.json
