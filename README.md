@@ -1,6 +1,7 @@
 # Compare json files
 
 ![](https://d.radikal.ru/d10/2112/c0/16136a9d6397.png)
+![](http://s019.radikal.ru/i632/1710/54/44eac239022f.png)
 
 ### Description
 Comparing two json files
